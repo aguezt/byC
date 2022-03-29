@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2000000,NAME=spacetoon
+http://bravo.kugo.id:1935/spacetoon/udp.stream/chunklist_w1889620726.m3u8
